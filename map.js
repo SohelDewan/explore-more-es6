@@ -2,6 +2,7 @@
 
 const numbers = [4, 5, 2, 8, 10];
 
+
 function doubleIt(num) {
     // console.log('num now', num)
     return num * 2;

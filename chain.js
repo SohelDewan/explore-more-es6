@@ -13,7 +13,6 @@ const products = {
 // second product price
 console.log(products.data[1].price);
 
-
 const user = {
     id: 5001,
     name: 'Shoriful Raj',
